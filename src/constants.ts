@@ -1,5 +1,5 @@
-import JSBI from 'jsbi'
-
+import JSBI from 'jsbi';
+export { JSBI };
 // exports for external consumption
 export type BigintIsh = JSBI | string | number
 
